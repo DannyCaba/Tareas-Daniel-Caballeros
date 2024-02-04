@@ -1,0 +1,22 @@
+Plantee el algoritmo para dos de los siguientes:
+
+Sacar a pasear a un perro
+
+-Preparar bolsas por si hace alguna necesidad
+-Colocar el arnes al perro
+-Colocar la pita con la que llevaremos al perro al arnes
+-Abrir la puerta de nuestra casa
+-Sacarlo a pasear
+
+Echar a andar un carro
+
+-Agarrar la llave
+-Dirijirse al carro
+-Quitarle el seguro a la puerta
+-Abrir la puerta
+-Entrar al vehiculo
+-Meter la llave en el espacio para introducirla
+-Girar la lave hasta que el motor prenda
+-Poner el carro en D tomando como ejemplo que el carro es automatico
+-Quitar el freno de mano
+-Acelerar

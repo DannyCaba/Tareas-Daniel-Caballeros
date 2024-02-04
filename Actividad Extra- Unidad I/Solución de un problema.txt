@@ -1,0 +1,15 @@
+Solución de un problema
+
+Tenia un puesto de technical support para una compañia que se encarga en dar servicios 
+de TV, Internet y cable. Era muy comun recibir llamadas porque el internet no servia o
+no habia señal
+
+Solucion
+
+Lo primero es hacer troubleshooting
+	-Desconectar el router, esperar 20 segundos, conectarlo nuevamente y ver si sirve
+	-Mover el router a otro enchufe
+	-Ver si el problema es general o especifico de esa persona
+	-Si nada de lo anterior funciona, se puede mandar un ¨touch¨ lo que significa que le 
+	 mandamos una señal fuerte al modem para reiniciarlo
+	-Si sigue sin funcionar, se necesita mandar un tecnico de campo para que revise el equipo

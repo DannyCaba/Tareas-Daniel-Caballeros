@@ -1,0 +1,56 @@
+Elija un sujeto cualquiera: Un perro
+
+complete los siguiente incisos:
+
+● Para el sujeto que pensó enliste todos los enunciados simples que considere
+verdaderos sobre el sujeto:
+
+○ Son leales
+○ Bonitos
+○ Amigables
+○ Hacen compañia
+○ Les gusta ser acariciados
+
+● Enliste todos los enunciados simples que considere falsos del sujeto:
+
+○ Trabaja
+○ Paga las facturas
+○ Va a hacer compras 
+○ Son peligrosos
+○ Estresan
+
+● Finalmente, haciendo uso de las proposiciones lógicas y los enunciados de los
+dos puntos anteriores, cree 10 enunciados nuevos, indique que proposiciones
+usó y el valor de verdad resultante, use mínimo 1 proposición y máximo 3 en
+cada enunciado:
+
+○ El perro es leal y no es cierto que son peligrosos
+	■ Proposiciones usadas: negación
+	■ Valor resultante: Verdad
+○ El perro no trabaja o paga las facturas
+	■ Proposiciones usadas: Disyunción débil
+	■ Valor resultante: Verdad
+○ El perro trabaja y hace compras
+	■ Proposiciones usadas: Conjunción
+	■ Valor resultante: Falso
+○ El perro hace compañia si se le cuida
+	■ Proposiciones usadas: Implicación
+	■ Valor resultante: Verdad
+○ El perro es peligroso si y solo si se le educa de mala manera y agresivamente
+	■ Proposiciones usadas: Equivalencia
+	■ Valor resultante: Verdad
+○ El perro estresa o es peligroso
+	■ Proposiciones usadas: Disyunción débil
+	■ Valor resultante: Falso
+○ El perro trabaja y paga las facturas
+	■ Proposiciones usadas: Conjunción
+	■ Valor resultante: Falso
+○ El perro es leal y bonito
+	■ Proposiciones usadas: Conjunción
+	■ Valor resultante: Verdad
+○ Al perro le gusta ser acariciado si y solo si no lo incomodemos
+	■ Proposiciones usadas: Equivalencia
+	■ Valor resultante: Verdad
+○ El perro no estresa y no es peligroso
+	■ Proposiciones usadas: Conjunción
+	■ Valor resultante: Verdad
